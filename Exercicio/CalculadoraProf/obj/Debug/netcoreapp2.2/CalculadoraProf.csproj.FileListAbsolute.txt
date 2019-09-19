@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\obj\Debug\netcoreapp2.2\CalculadoraProf.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\obj\Debug\netcoreapp2.2\CalculadoraProf.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\obj\Debug\netcoreapp2.2\CalculadoraProf.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\obj\Debug\netcoreapp2.2\CalculadoraProf.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\bin\Debug\netcoreapp2.2\CalculadoraProf.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\bin\Debug\netcoreapp2.2\CalculadoraProf.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\bin\Debug\netcoreapp2.2\CalculadoraProf.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\bin\Debug\netcoreapp2.2\CalculadoraProf.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\bin\Debug\netcoreapp2.2\CalculadoraProf.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\obj\Debug\netcoreapp2.2\CalculadoraProf.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\CalculadoraProf\obj\Debug\netcoreapp2.2\CalculadoraProf.pdb

@@ -1,0 +1,87 @@
+CD mudan diretório tanto no windows como no linux	
+
+LS lista os arquivos no Linux 
+
+Dir lista os arquivos no Windows
+
+ClS limpa a tela no windows 
+
+clear no linux pra limpar a tela  
+
+mkdir cria um diretório (w/l)
+
+rmdir remove um diretório (diretório precisa estar vazio)(w/l)
+
+comando/? ajuda a te lembrar oq o comando faz
+
+type mostra o conteudo do arquivo 
+
+type (barra reta) more, lista alguns arquivos (pesquisar depois)
+
+SPINT 3
+
+	Logica estuda como a mente funciona e como nós pensamos 
+	único problema é quando caímos na falacia (duas ideias verdadeiras, que pode chegar a uma conclusão falsa) 
+	
+Logica só tem dois valores Falso e Verdadeiro 
+
+Negação (usa o sinal ~)
+	inverte o sinal da premissa 
+
+	de tem um verdae e fala nao, vira falso 
+	se tem um falso e fala nao, vira verdadeiro 
+	
+	Disjunção (e), conjunção (ou)  Tabela da verdade (estudar dps)
+
+Liguagem de Programação = conjunto de regras, tem uma sintex para que de para entender, tudo isso é padrão e funciona em qualque lugar. Regras de como escreve o programa
+e tem o conjunto de instruções (TAG's, isto é mais a parte semantica)
+Código executavel = codigo gerado a partir do programa pode interpretar o código=  interpretando linha após linha (usando mor) vantagem é que pode rodar em qq plataforma,
+porém é mais lenta
+	
+	compilada = pega o código e transforma numa linguagem que o processador central entenda, roda direto no processador central, é muito mais rapida, porem só roda em 
+na maquina em que foi feita, 
+
+	hibrida= linguagem de programação gera um codiogo intermediario, não é um código que a maquina central entenda, porem a maquina virtual tranforma a linguagem intermediria
+em avançada pro processador rodar, temos os dois outros codigos, podendo ser rapiado e portatil pra rodar em qq lugar. 
+
+	Liguagens de alto nivel são voltadas pra lingua humana, somente de bater o olho da para entender. 
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

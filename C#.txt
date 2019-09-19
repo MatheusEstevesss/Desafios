@@ -1,0 +1,39 @@
+Calculadora 
+
+Passo a Passo 
+
+1. Abra a calculadora
+2. Digite 1 digito 
+3. Escolha a operação 
+3. Digito outro número.
+4. Clique em igual (=) para que obtenha seu resultado
+
+Framework - Caixa de ferramenta, coisas utilizadas para fazer outra coisa, realiza uma tarefa com mais agilidade. Não pode alterar a formação dele (tem que configurar do  jeito que esta, não importa o pq)
+
+Variavel é usado por computador lembrar o que vc disse pra ele
+pode trocar de valor, por isso é variável 
+
+Espaco na memoria do computador que tem um nome
+ Tem que especificar pro C# o q tem dentro da variavel 
+Variavel sempre tem o tipo e o nome 
+tipo é o valor que ela pode armazenar
+
+
+COMO CRIAR NOME DE VARIAVEL
+
+	Todo nome começa sempre com letra
+	Não pode ter espaço no nome de variavel (nem acento)
+	De significado pros nomes, para poder entender dps, fazer
+isso sem escrever uma frase, deixe simples e explicando oq esta
+sendo feito. 
+
+WriteLine pula uma linha (column)
+Write uma coisa do lado da outra (row)
+
+INTERPRETAR AS LINHAS
+
+primeira coisa que aparece é o arquivo onde está o problema
+dps aparece a linha e as colunas onde estao o erro (13,20)
+depois aparece qual erro está acontecendo
+
+int.Parse (converte string e int)
