@@ -21,9 +21,7 @@ namespace salario
             } else{
                 Console.WriteLine("Você não possuí direito ao aumento salarial");
             }
-
-
-
+            
         }
     }
 }
