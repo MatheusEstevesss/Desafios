@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\obj\Debug\netcoreapp2.2\ImparProf.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\obj\Debug\netcoreapp2.2\ImparProf.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\obj\Debug\netcoreapp2.2\ImparProf.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\obj\Debug\netcoreapp2.2\ImparProf.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\bin\Debug\netcoreapp2.2\ImparProf.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\bin\Debug\netcoreapp2.2\ImparProf.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\bin\Debug\netcoreapp2.2\ImparProf.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\bin\Debug\netcoreapp2.2\ImparProf.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\bin\Debug\netcoreapp2.2\ImparProf.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\obj\Debug\netcoreapp2.2\ImparProf.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\imparprof\obj\Debug\netcoreapp2.2\ImparProf.pdb
