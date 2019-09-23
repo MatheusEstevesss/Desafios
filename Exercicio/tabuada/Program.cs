@@ -6,10 +6,16 @@ namespace tabuada
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tabuada do 5");
-            for (int x = 5; x <=50; x+=5){
-                Console.WriteLine(x + " ");
+            string resp= String.Empty;
+
+            Console.WriteLine("Tabuada do 1");
+            for (int x = 1; x <=10; x++){
+                for (int j=1; j<=10; j++){
+                Console.Write($"{j} * {x} = {j*x} \t");
+                }
+                Console.WriteLine();
             }
+
         }
     }
 }
