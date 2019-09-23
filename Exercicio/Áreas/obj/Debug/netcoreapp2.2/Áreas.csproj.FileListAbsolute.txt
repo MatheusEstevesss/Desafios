@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\obj\Debug\netcoreapp2.2\Áreas.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\obj\Debug\netcoreapp2.2\Áreas.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\obj\Debug\netcoreapp2.2\Áreas.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\obj\Debug\netcoreapp2.2\Áreas.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\bin\Debug\netcoreapp2.2\Áreas.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\bin\Debug\netcoreapp2.2\Áreas.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\bin\Debug\netcoreapp2.2\Áreas.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\bin\Debug\netcoreapp2.2\Áreas.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\bin\Debug\netcoreapp2.2\Áreas.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\obj\Debug\netcoreapp2.2\Áreas.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Áreas\obj\Debug\netcoreapp2.2\Áreas.pdb
