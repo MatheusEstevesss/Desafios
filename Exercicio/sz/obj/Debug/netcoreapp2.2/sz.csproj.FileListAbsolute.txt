@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\bin\Debug\netcoreapp2.2\sz.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\bin\Debug\netcoreapp2.2\sz.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\bin\Debug\netcoreapp2.2\sz.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\bin\Debug\netcoreapp2.2\sz.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\bin\Debug\netcoreapp2.2\sz.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\obj\Debug\netcoreapp2.2\sz.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\obj\Debug\netcoreapp2.2\sz.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\obj\Debug\netcoreapp2.2\sz.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\obj\Debug\netcoreapp2.2\sz.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\obj\Debug\netcoreapp2.2\sz.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\sz\obj\Debug\netcoreapp2.2\sz.pdb

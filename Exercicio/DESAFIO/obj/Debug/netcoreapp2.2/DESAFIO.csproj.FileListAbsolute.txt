@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\bin\Debug\netcoreapp2.2\DESAFIO.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\bin\Debug\netcoreapp2.2\DESAFIO.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\bin\Debug\netcoreapp2.2\DESAFIO.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\bin\Debug\netcoreapp2.2\DESAFIO.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\bin\Debug\netcoreapp2.2\DESAFIO.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\obj\Debug\netcoreapp2.2\DESAFIO.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\obj\Debug\netcoreapp2.2\DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\obj\Debug\netcoreapp2.2\DESAFIO.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\obj\Debug\netcoreapp2.2\DESAFIO.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\obj\Debug\netcoreapp2.2\DESAFIO.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicio\Desafio\obj\Debug\netcoreapp2.2\DESAFIO.pdb
