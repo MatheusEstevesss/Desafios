@@ -11,7 +11,7 @@ namespace Temperatura
             double menor= 0;
 
             for(int i=0; i < 12; i++){
-                Console.Write("Digite a temperatura do mês: ", i);
+                Console.Write("Digite a temperatura do mês: ");
                 temperatura [i]= double.Parse(Console.ReadLine());
             }
 
