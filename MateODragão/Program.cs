@@ -19,43 +19,33 @@ namespace MateODragão {
                 switch (opcaojogador) {
                     case "1":
                         Console.Clear(); 
-                        Guerreiro guerreiro = new Guerreiro(); 
-                        guerreiro.Nome = "Daedric";
-                        guerreiro.Sobrenome = "Whisper";
-                        guerreiro.CidadeNatal = "Constantinopla";
-                        guerreiro.DataNascimento = DateTime.Parse("09/04/1340");
-                        guerreiro.FerramentaAtaque = "Duas adagas";
-                        guerreiro.FerramentaProtecao = "Armadura Leve";
-                        guerreiro.Forca = 0;
-                        guerreiro.Destreza = 3;
-                        guerreiro.Inteligencia = 5;
-                        guerreiro.Vida = 20;
+
+                        Guerreiro guerreiro = CriarGuerreiro ();
+                        
 
                         Dragao dragao = new Dragao();  
                         dragao.Nome = "Armagedon";
                         dragao.Forca = 5;
                         dragao.Destreza = 1;
-                        dragao.Inteligencia = 5;
+                        dragao.Inteligencia = 3;
                         dragao.Vida = 300;
 
                             /*Inicio do dialogo*/
-                        System.Console.WriteLine($"{guerreiro.Nome .ToUpper()}: {dragao.Nome}, seu louco ! Vim derrotar-te-lhe.");
+                        CriarDialogo (guerreiro.Nome, $"{guerreiro.Nome .ToUpper()}: {dragao.Nome}, seu louco ! Vim derrotar-te-lhe.");
+                        System.Console.WriteLine();
                         System.Console.WriteLine($"{dragao.Nome .ToUpper()} WUAHAHAHA! Humano tolinho. Quem pena que és?!"); // Se pensas que consegue humano, lute contra mim!
                         
-                        System.Console.WriteLine();
-                        System.Console.WriteLine("Aperte ENTER para prosseguir");
-                        Console.ReadLine();
+                        FinalizarDialogo();
                 
                             /* fim do dialogo*/
 
                             /* Inicio Segundo Dialogo */
-                        Console.Clear();
-                        System.Console.WriteLine($"{guerreiro.Nome .ToUpper()}:Eu sou {guerreiro.Nome .ToUpper()} da casa {guerreiro.Sobrenome .ToUpper()}, criatura ridicula");
-                        System.Console.WriteLine($"{guerreiro.Nome .ToUpper()}:Vim de {guerreiro.CidadeNatal .ToUpper()}; para derrotar-te para mostrar-te e não por uma princesa");
-                        System.Console.WriteLine($"{dragao.Nome .ToUpper()}: Quem ? De onde ? Bom, que seja... fritar-te-ei e devorar-te-ei");
-                            /* Fim Segundo Dialogo */
+                        System.Console.WriteLine ($"{guerreiro.Nome.ToUpper()}: Eu sou {guerreiro.Nome}! Da casa {guerreiro.Sobrenome}, ó criatura morfética!");
+                        System.Console.WriteLine ($"{guerreiro.Nome.ToUpper()}: Vim de {guerreiro.CidadeNatal} para derrotar-te e mostrar meu valor!");
+                        System.Console.WriteLine ($"{dragao.Nome.ToUpper()}: QUEM? DE ONDE? Bom, que seja...fritar-te-ei e devorar-te-ei, primata insolente!");
 
-                        Console.Clear();
+                        FinalizarDialogo();
+                            /* Fim Segundo Dialogo */
                         
                         bool jogadorAtacaPrimeiro = guerreiro.Destreza > dragao.Destreza ? true : false;
 
@@ -169,9 +159,6 @@ namespace MateODragão {
                                     System.Console.WriteLine($"{dragao.Nome .ToUpper()}: IZI PEASY LEMON SQUEEZY");
                                 break;
                             }
-
-                            System.Console.WriteLine("Aperte ENTER para prosseguir");
-                            Console.ReadLine();
                                         /* Fim - Turno guerreiro */
                             }                            
                         }
@@ -186,6 +173,34 @@ namespace MateODragão {
                         break;
                 }
             } while (JogarNaoDesistiu);
+        }
+    
+        private static void CriarDialogo(string nome, string frase)
+        {
+            System.Console.WriteLine($"{nome .ToUpper()}: {frase}");
+        }
+        private static void FinalizarDialogo()
+        {
+            System.Console.WriteLine ();
+            System.Console.WriteLine ("Aperte ENTER para prosseguir");
+            Console.ReadLine ();
+            Console.Clear ();
+        }
+        private static Guerreiro CriarGuerreiro()
+        {
+            Guerreiro guerreiro = new Guerreiro(); 
+            guerreiro.Nome = "Daedric";
+            guerreiro.Sobrenome = "Whisper";
+            guerreiro.CidadeNatal = "Constantinopla";
+            guerreiro.DataNascimento = DateTime.Parse("09/04/1340");
+            guerreiro.FerramentaAtaque = "Duas adagas";
+            guerreiro.FerramentaProtecao = "Armadura Leve";
+            guerreiro.Forca = 0;
+            guerreiro.Destreza = 3;
+            guerreiro.Inteligencia = 5;
+            guerreiro.Vida = 20;
+
+            return guerreiro;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
         }
     }
 }
