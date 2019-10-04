@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\obj\Debug\netcoreapp2.2\ContaCorrente1.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\obj\Debug\netcoreapp2.2\ContaCorrente1.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\obj\Debug\netcoreapp2.2\ContaCorrente1.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\obj\Debug\netcoreapp2.2\ContaCorrente1.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\bin\Debug\netcoreapp2.2\ContaCorrente1.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\bin\Debug\netcoreapp2.2\ContaCorrente1.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\bin\Debug\netcoreapp2.2\ContaCorrente1.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\bin\Debug\netcoreapp2.2\ContaCorrente1.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\bin\Debug\netcoreapp2.2\ContaCorrente1.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\obj\Debug\netcoreapp2.2\ContaCorrente1.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\ContaCorrente1\obj\Debug\netcoreapp2.2\ContaCorrente1.pdb
