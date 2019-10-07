@@ -91,37 +91,7 @@ namespace ByteBank {
                     System.Console.WriteLine("Transferência efetuada com sucesso");
                 } else {
                     System.Console.WriteLine("A transferência não foi efetuada");
-                }
-
-            // System.Console.WriteLine ("Seu saldo é: {0}", contaCorrente.Saldo);
-            /* 
-            System.Console.WriteLine();
-            System.Console.WriteLine("Qual operação deseja realizar ?");
-            System.Console.WriteLine("Digite 1 - Para efetuar um depósito");
-            System.Console.WriteLine("Digite 2 - Para efetuar um saque");
-            System.Console.WriteLine("Digite 3 - Para realizar um trânsferencia");
-            oper = int.Parse(Console.ReadLine());
-
-            switch (oper){
-                case 1:
-                System.Console.WriteLine("Digite o valor do depósitos: ");
-                double deposito = double.Parse(Console.ReadLine());
-                total = contaCorrente.Saldo + deposito;
-
-                System.Console.WriteLine("Seu novo saldo é de: {0}", total);
-                break;
-
-                case 2:
-                System.Console.WriteLine("Digite o valor do seu saque: ");
-                double saque = double.Parse(Console.ReadLine());
-                total = contaCorrente.Saldo - saque;
-                if(total >= 0){
-                    System.Console.WriteLine("Saque realizado com sucesso. Seu novo saldo é: {0}", total);
-                } else {
-                    System.Console.WriteLine("O seu saldo final não poder ficar negativo.");
-                }
-                break;
-                */
+                } 
         }
     }
 }
