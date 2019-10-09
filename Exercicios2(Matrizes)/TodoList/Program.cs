@@ -11,7 +11,6 @@ namespace TodoList
             List<TodoItem> todoList = new List<TodoItem>();
             string fileName = "todo.csv";
             string filePath = ".\\" + fileName;
-
             todoList = initList(@filePath);
             
             if(todoList == null){

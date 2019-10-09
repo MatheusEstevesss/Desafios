@@ -9,12 +9,5 @@ namespace TodoList
             this.Titulo = Titulo;
             this.Nota = Nota;
         }
-
-        public salvarArquivo (){
-            StreamWriter salvar = new StreamWriter();
-
-            salvar.WriteLine("isso ai");
-            salvar.Close;
-        }
     }
 }
