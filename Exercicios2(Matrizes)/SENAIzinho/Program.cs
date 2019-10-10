@@ -1,5 +1,6 @@
 ﻿using System;
 using SENAIzinho.Models;
+using System.Collections.Generic;
 
 namespace SENAIzinho
 {
@@ -51,7 +52,9 @@ namespace SENAIzinho
                 break;
             }       
 
-                List <TodoItem> SENAIzinho = new List<TodoItem>();
+                List<Aluno> alunos = new List<Aluno>();
+                string fileName = "todo.csv";
+
         }
     }
 }
