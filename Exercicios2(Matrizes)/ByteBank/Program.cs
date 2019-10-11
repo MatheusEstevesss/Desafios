@@ -57,8 +57,8 @@ namespace ByteBank {
             } while (!saldoValido);
 
             ContaCorrente contaCorrente = new ContaCorrente (cliente1, conta, agencia);
-            contaCorrente.Saldo = saldo;
-
+            contaCorrente.Deposito (saldo);
+            contaCorrente.Agenda = 123;
             System.Console.WriteLine("ByteBank deposito");
             Cliente usuario = contaCorrente.Titular;
             System.Console.WriteLine("Bem Vindo - {0}", usuario.Nome);

@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\bin\Debug\netcoreapp2.2\NovoByteBank.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\bin\Debug\netcoreapp2.2\NovoByteBank.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\bin\Debug\netcoreapp2.2\NovoByteBank.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\bin\Debug\netcoreapp2.2\NovoByteBank.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\bin\Debug\netcoreapp2.2\NovoByteBank.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\obj\Debug\netcoreapp2.2\NovoByteBank.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\obj\Debug\netcoreapp2.2\NovoByteBank.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\obj\Debug\netcoreapp2.2\NovoByteBank.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\obj\Debug\netcoreapp2.2\NovoByteBank.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\obj\Debug\netcoreapp2.2\NovoByteBank.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\NovoByteBank\obj\Debug\netcoreapp2.2\NovoByteBank.pdb
