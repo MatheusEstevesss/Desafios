@@ -8,7 +8,7 @@ namespace ByteBank.Models
         private double _saldo;
 
         public double Saldo {
-            get {return_saldo;}
+            get {return _saldo;}
         }
         public ContaCorrente (Cliente Titular, int Agenda, int Numero){
             this.Titular = Titular;

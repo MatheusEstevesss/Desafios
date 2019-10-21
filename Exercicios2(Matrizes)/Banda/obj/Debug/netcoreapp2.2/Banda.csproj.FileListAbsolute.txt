@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\obj\Debug\netcoreapp2.2\Banda.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\obj\Debug\netcoreapp2.2\Banda.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\obj\Debug\netcoreapp2.2\Banda.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\obj\Debug\netcoreapp2.2\Banda.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\bin\Debug\netcoreapp2.2\Banda.deps.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\bin\Debug\netcoreapp2.2\Banda.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\bin\Debug\netcoreapp2.2\Banda.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\bin\Debug\netcoreapp2.2\Banda.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\bin\Debug\netcoreapp2.2\Banda.pdb
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\obj\Debug\netcoreapp2.2\Banda.dll
+C:\Users\51803770805\Documents\Sprint3\Exercicios2(Matrizes)\Banda\obj\Debug\netcoreapp2.2\Banda.pdb
