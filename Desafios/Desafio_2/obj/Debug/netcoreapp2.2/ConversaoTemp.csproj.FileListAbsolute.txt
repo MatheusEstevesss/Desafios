@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\obj\Debug\netcoreapp2.2\ConversaoTemp.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\obj\Debug\netcoreapp2.2\ConversaoTemp.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\obj\Debug\netcoreapp2.2\ConversaoTemp.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\obj\Debug\netcoreapp2.2\ConversaoTemp.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\bin\Debug\netcoreapp2.2\ConversaoTemp.deps.json
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\bin\Debug\netcoreapp2.2\ConversaoTemp.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\bin\Debug\netcoreapp2.2\ConversaoTemp.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\bin\Debug\netcoreapp2.2\ConversaoTemp.dll
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\bin\Debug\netcoreapp2.2\ConversaoTemp.pdb
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\obj\Debug\netcoreapp2.2\ConversaoTemp.dll
+C:\Users\51803770805\Documents\Sprint3\Desafios\ConversaoTemp\obj\Debug\netcoreapp2.2\ConversaoTemp.pdb
