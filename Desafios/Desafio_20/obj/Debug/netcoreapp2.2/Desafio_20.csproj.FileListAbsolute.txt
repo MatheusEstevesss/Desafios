@@ -1,0 +1,11 @@
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\obj\Debug\netcoreapp2.2\Desafio_20.csprojAssemblyReference.cache
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\obj\Debug\netcoreapp2.2\Desafio_20.csproj.CoreCompileInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\obj\Debug\netcoreapp2.2\Desafio_20.AssemblyInfoInputs.cache
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\obj\Debug\netcoreapp2.2\Desafio_20.AssemblyInfo.cs
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\bin\Debug\netcoreapp2.2\Desafio_20.deps.json
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\bin\Debug\netcoreapp2.2\Desafio_20.runtimeconfig.json
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\bin\Debug\netcoreapp2.2\Desafio_20.runtimeconfig.dev.json
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\bin\Debug\netcoreapp2.2\Desafio_20.dll
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\bin\Debug\netcoreapp2.2\Desafio_20.pdb
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\obj\Debug\netcoreapp2.2\Desafio_20.dll
+C:\Users\51803770805\Documents\Sprint3\Desafios\Desafio_20\obj\Debug\netcoreapp2.2\Desafio_20.pdb

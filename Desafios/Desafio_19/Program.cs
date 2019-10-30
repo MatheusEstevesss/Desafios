@@ -6,13 +6,21 @@ namespace Desafio_19
     {
         static void Main(string[] args)
         {   
-            int x,y;
+            int x;
 
             System.Console.Write("Digite o tamanho do vetor: ");
-            x = int.Parse(Console.Parse());
+            x = int.Parse(Console.ReadLine());
 
-            System.Console.Write("Digite o que terá dentro do vetor: ");
-            string [] cliente = new cliente [];
+            int [] vetor = new int [x];
+
+            for (int y=0; y < x; y++){
+                System.Console.Write("Digite um valor: ");
+                vetor [y] = int.Parse(Console.ReadLine());
+            }
+            System.Console.WriteLine("\nSeu vetor ");
+            foreach (int num in vetor){
+                System.Console.WriteLine($" {num} ");
+            }
         }
     }
 }
